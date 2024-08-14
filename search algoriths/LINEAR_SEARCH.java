@@ -26,7 +26,7 @@ class LINEAR_SEARCH
     }
 
 
-}
+}     // output==> FOund @index 3
 
 //Timee complexity 
   //==>best case --> O(1) [target found at first index,, since we are also searching from first index]
